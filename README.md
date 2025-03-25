@@ -3,7 +3,7 @@
 
 ## PinOut
 
-![sht2x_pinout]("./sht2x_PinOut.png")
+![sht2x_pinout](sht2x_PinOut.png)
 
 ## Notes
 
